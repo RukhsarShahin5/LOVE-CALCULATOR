@@ -1,0 +1,60 @@
+body{
+    background-color:#9c1f1f;
+    color: white;
+}
+h1{
+    text-align: center;
+    font-size: 5rem;
+    font-weight: bolder;
+}
+
+#p1{
+    text-align: center;
+    font-size: x-large;
+    margin-top: -45px;
+}
+
+table{
+    text-align: center;
+    padding-left: 27%;
+    padding-top: 1.5%;
+    font-size: x-large;
+}
+
+input{
+    height: 60px;
+    width: 260px;
+    border-radius: 56%;
+    text-align: center;
+    margin: 7%;
+    margin-right: 20px;
+    border-color: white;
+    color: #fc3838;
+    font-size: large;
+    background-color: snow;
+    font-size: 22px;
+}
+
+button{
+    text-align: center;
+    background-color: white;
+    color: #fc3838;
+    margin-left: 550px;
+    margin-top: 15px;
+    height: 65px;
+    width: 235px;
+    border-radius: 32px;
+    font-size: x-large;
+    cursor: pointer;
+    font-size: 30px;
+
+    
+}
+
+#result{
+    text-align: center;
+    font-size: x-large;
+    text-decoration: underline;
+    padding-top: 2%;
+}
+
